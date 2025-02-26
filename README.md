@@ -2,7 +2,7 @@
 - 👀 I love coding in Python. FastAPI, Flask etc.
 - 🌱 I’m currently developing my own start-up.
 - 💞️ I’m looking to collaborate on projects where I can use my ML \ Econometrics knowledge.
-- 🏠 [ugurcandemir.me](https://ugurcandemir.me/)
+- 🏠 [ugurcandemir.me](https://ugurcandemir.me/) Personal Website
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Furcan-demir-69b29211b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ugurcandemir.me/)
