@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugurcandemir
 - 👀 I love coding in Python. FastAPI, Flask etc.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently developing my own start-up.
 - 💞️ I’m looking to collaborate on projects where I can use my ML \ Econometrics knowledge.
 - 🏠 ugurcandemir.me
 
