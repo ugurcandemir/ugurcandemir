@@ -22,15 +22,10 @@ I’m a passionate software developer who loves building scalable, data-driven a
 ---
 
 ## 🌍 Let’s Connect  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Furcan-demir-69b29211b/)  
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ugurcandemir.me/)  
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ugurcandemir)  
-[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ugurcandemir96)  
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Furcan-demir-69b29211b/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ugurcandemir.me/) [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ugurcandemir) [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ugurcandemir96)
 
 ## 📊 GitHub Stats
-![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurcandemir&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcandemir&layout=compact&theme=radical)  
 
 ---
